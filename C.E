@@ -5,7 +5,7 @@
 -- Marker  : Dr E F Elsworth
 
 -- Purpose : Callback for the C button, clears the register but NOT
---           the stack or memory.  Use ACCOMMAND to cleat the register
+--           the stack or memory.  Use ACCOMMAND to clear the register
 --           and the stack, and Min with 0 to clear the memory.
 
 class CCOMMAND
